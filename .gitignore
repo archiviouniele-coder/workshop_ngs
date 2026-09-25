@@ -6,7 +6,6 @@
 
 # Raw sequencing data
 *.fastq
-*.fq
 *.fastq.gz
 *.fq.gz
 *.sra
@@ -29,6 +28,8 @@
 reference_genome/*
 !reference_genome/REFERENCE.md
 !reference_genome/.gitkeep
+!reference_genome/reference_files.sha256
+
 
 # Temporary SRA files
 sra_tmp/

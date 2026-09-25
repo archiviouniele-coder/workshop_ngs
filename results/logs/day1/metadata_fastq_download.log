@@ -1,0 +1,30 @@
+Checking network access to EMBL-EBI...
+Downloading RNA-seq metadata
+Downloading ChIP-seq metadata
+Downloading RNA-seq FASTQ files
+Skipping verified file: WT_1_R1.fastq.gz
+Skipping verified file: WT_1_R2.fastq.gz
+Skipping verified file: WT_2_R1.fastq.gz
+Skipping verified file: WT_2_R2.fastq.gz
+Skipping verified file: WT_3_R1.fastq.gz
+Skipping verified file: WT_3_R2.fastq.gz
+Skipping verified file: WTS_1_R1.fastq.gz
+Skipping verified file: WTS_1_R2.fastq.gz
+Skipping verified file: WTS_2_R1.fastq.gz
+Skipping verified file: WTS_2_R2.fastq.gz
+Skipping verified file: WTS_3_R1.fastq.gz
+Skipping verified file: WTS_3_R2.fastq.gz
+Downloading ChIP-seq FASTQ files
+Skipping verified file: WT_1_R1.fastq.gz
+Skipping verified file: WT_1_R2.fastq.gz
+Skipping verified file: WT_2_R1.fastq.gz
+Downloading WT_2_R2.fastq.gz
+Downloading WT_3_R1.fastq.gz
+Downloading WT_3_R2.fastq.gz
+Downloading WTS_1_R1.fastq.gz
+Downloading WTS_1_R2.fastq.gz
+Downloading WTS_2_R1.fastq.gz
+Downloading WTS_2_R2.fastq.gz
+Downloading WTS_3_R1.fastq.gz
+Downloading WTS_3_R2.fastq.gz
+Metadata processing and FASTQ download complete
